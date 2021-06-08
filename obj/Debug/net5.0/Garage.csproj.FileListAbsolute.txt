@@ -1,0 +1,16 @@
+C:\Users\info\workspace\csharp\Garage\bin\Debug\net5.0\Garage.exe
+C:\Users\info\workspace\csharp\Garage\bin\Debug\net5.0\Garage.deps.json
+C:\Users\info\workspace\csharp\Garage\bin\Debug\net5.0\Garage.runtimeconfig.json
+C:\Users\info\workspace\csharp\Garage\bin\Debug\net5.0\Garage.runtimeconfig.dev.json
+C:\Users\info\workspace\csharp\Garage\bin\Debug\net5.0\Garage.dll
+C:\Users\info\workspace\csharp\Garage\bin\Debug\net5.0\ref\Garage.dll
+C:\Users\info\workspace\csharp\Garage\bin\Debug\net5.0\Garage.pdb
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\Garage.csprojAssemblyReference.cache
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\Garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\Garage.AssemblyInfoInputs.cache
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\Garage.AssemblyInfo.cs
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\Garage.csproj.CoreCompileInputs.cache
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\Garage.dll
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\ref\Garage.dll
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\Garage.pdb
+C:\Users\info\workspace\csharp\Garage\obj\Debug\net5.0\Garage.genruntimeconfig.cache
